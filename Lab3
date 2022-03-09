@@ -1,0 +1,88 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled4.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNdaLbA7XVSFwBpERTj4dwE",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/danio2010/ON2022/blob/main/Lab3\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 130
+        },
+        "id": "vJdai3EBaw52",
+        "outputId": "ef4341a1-2322-4667-8c23-831d626b5fe0"
+      },
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-1-d7707a97ab72>\"\u001b[0;36m, line \u001b[0;32m2\u001b[0m\n\u001b[0;31m    Dany jest słownik student={'imie':'Jan', 'nazwisko':'kowalski','wiek':25, 'wzrost':188, 'waga':80, 'miasto':'Toruń'}\u001b[0m\n\u001b[0m            ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ],
+      "source": [
+        "#### Zadanie 1\n",
+        "Dany jest słownik student={'imie':'Jan', 'nazwisko':'kowalski','wiek':25, 'wzrost':188, 'waga':80, 'miasto':'Toruń'}\n",
+        "\n",
+        "* Wypisz jego elementy w postaci \"klucz -> wartość \"\n",
+        "* Zmień 'wzrost' na 182 \n",
+        "* Dodaj klucz 'wynik matury' z dowolną wartością\n",
+        "* Usuń klucz (i wartość) 'miasto'"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#### Zadanie 1\n",
+        "Dany jest słownik student={'imie':'Jan', 'nazwisko':'kowalski','wiek':25, 'wzrost':188, 'waga':80, 'miasto':'Toruń'}\n",
+        "\n",
+        "* Wypisz jego elementy w postaci \"klucz -> wartość \"\n",
+        "* Zmień 'wzrost' na 182 \n",
+        "* Dodaj klucz 'wynik matury' z dowolną wartością\n",
+        "* Usuń klucz (i wartość) 'miasto'"
+      ],
+      "metadata": {
+        "id": "VRVE0JVybqgv"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        ""
+      ],
+      "metadata": {
+        "id": "L2nHz72XbnSi"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
